@@ -1,0 +1,4 @@
+First line
+Second line
+Task priorities: High, Medium, Low
+Task statuses: Pending, In Progress, Done
